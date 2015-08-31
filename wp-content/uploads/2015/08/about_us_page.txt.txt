@@ -1,0 +1,83 @@
+[lsvr_section fullsize="no" wrap_in_container="no" inview_anim="none"]
+
+[lsvr_grid_row]
+
+[lsvr_grid_column size="6" breakpoint="md" offset="0"]
+
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.
+
+<strong>The copy warned the Little Blind Text</strong>, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind.
+
+[/lsvr_grid_column]
+
+[lsvr_grid_column size="6" breakpoint="md" offset="0"]
+
+<img class="alignnone wp-image-133" src="http://demos.volovar.net/beautyspot.wp/demo/wp-content/uploads/2014/06/about_us.jpg" alt="about_us" />
+
+[/lsvr_grid_column]
+
+[/lsvr_grid_row]
+
+[/lsvr_section]
+
+[lsvr_section fullsize="no" wrap_in_container="no" inview_anim="none"]
+
+[lsvr_grid_row]
+
+[lsvr_grid_column size="6" breakpoint="md" offset="0"]
+
+[lsvr_team_member portrait="http://demos.volovar.net/beautyspot.wp/demo/wp-content/uploads/2014/06/team_member_01.jpg" person_name="Nikki Mars" description="Cosmetician" social_icons="fa fa-twitter,https://twitter.com/MyTwitterProfile|fa fa-facebook,https://www.facebook.com/MyTwitterProfile" inview_anim="none"]
+
+Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.
+
+[/lsvr_team_member]
+
+[/lsvr_grid_column]
+
+[lsvr_grid_column size="6" breakpoint="md" offset="0"]
+
+[lsvr_team_member portrait="http://demos.volovar.net/beautyspot.wp/demo/wp-content/uploads/2014/06/team_member_02.jpg" person_name="Angela Simons" description="Hairdresser" social_icons="fa fa-pinterest,https://www.pinterest.com/MyTwitterProfile" inview_anim="none"]
+
+Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat.
+
+[/lsvr_team_member]
+
+[/lsvr_grid_column]
+
+[/lsvr_grid_row]
+
+[lsvr_grid_row]
+
+[lsvr_grid_column size="6" breakpoint="md" offset="0"]
+
+[lsvr_team_member portrait="http://demos.volovar.net/beautyspot.wp/demo/wp-content/uploads/2014/06/team_member_03.jpg" person_name="Tarja Lee" description="Nail Artist" social_icons="fa fa-twitter,https://twitter.com/MyTwitterProfile" inview_anim="none"]
+
+Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio.
+
+[/lsvr_team_member]
+
+[/lsvr_grid_column]
+
+[lsvr_grid_column size="6" breakpoint="md" offset="0"]
+
+[lsvr_team_member portrait="http://demos.volovar.net/beautyspot.wp/demo/wp-content/uploads/2014/06/team_member_04.jpg" person_name="Floor Gossow" description="Massage Therapist" social_icons="fa fa-twitter,https://twitter.com/MyTwitterProfile|fa fa-facebook,https://www.facebook.com/MyTwitterProfile" inview_anim="none"]
+
+Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat.
+
+[/lsvr_team_member]
+
+[/lsvr_grid_column]
+
+[/lsvr_grid_row]
+
+[/lsvr_section]
+
+[lsvr_section fullsize="no" wrap_in_container="no" inview_anim="none"]
+
+[lsvr_cta_message title="Visit the best beauty salon around!" button_label="Contact Info" link="http://demos.volovar.net/beautyspot.wp/demo/contact/" inview_anim="none"]
+
+Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.
+
+[/lsvr_cta_message]
+
+[/lsvr_section]
