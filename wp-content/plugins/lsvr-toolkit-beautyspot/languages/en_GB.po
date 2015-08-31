@@ -1,0 +1,1405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR Toolkit\n"
+"POT-Creation-Date: 2014-07-07 15:20+0100\n"
+"PO-Revision-Date: 2014-07-07 15:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../cpt/lsvr-slider.php:47
+msgid "Slides"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:48
+msgid "Slide"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:49 ../cpt/lsvr-slider.php:50
+#: ../cpt/lsvr-slider.php:52
+msgid "Add New Slide"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:51
+msgid "Edit Slide"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:53
+msgid "View Slide"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:54
+msgid "Search slides"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:55
+msgid "No slides found"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:56
+msgid "No slides found in trash"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:79 ../cpt/lsvr-slider.php:93
+msgid "Sliders"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:80 ../page-builder/blocks/slider.php:12
+#: ../page-builder/blocks/slider.php:53
+#: ../shortcode-generator/shortcodes/slider.php:17
+#: ../shortcode-generator/shortcodes/slider.php:54
+msgid "Slider"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:81
+msgid "Search Sliders"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:82
+msgid "Popular Sliders"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:83
+msgid "All Sliders"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:84
+msgid "Parent Slider"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:85
+msgid "Parent Slider:"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:86
+msgid "Edit Slider"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:87
+msgid "Update Slider"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:88
+msgid "Add New Slider"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:89
+msgid "New Slider Name"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:90
+msgid "Separate sliders with commas"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:91
+msgid "Add or remove sliders"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:92
+msgid "Choose from the most used sliders"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:114
+msgid "Thumbnail"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:219
+msgid "Vertical Align"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:228
+msgid "Top"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:236
+msgid "Middle"
+msgstr ""
+
+#: ../cpt/lsvr-slider.php:244
+msgid "Bottom"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:28 ../page-builder/blocks/articles.php:45
+#: ../page-builder/blocks/slider.php:40
+#: ../shortcode-generator/shortcodes/articles.php:78
+msgid "None"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:29
+msgid "Flash"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:30
+msgid "Bounce"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:31
+msgid "Shake"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:32
+msgid "Tada"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:33
+msgid "Swing"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:34
+msgid "Wobble"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:35
+msgid "Pulse"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:36
+msgid "Flip"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:37
+msgid "Flip In X"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:38
+msgid "Flip In Y"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:39
+msgid "Fade In"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:40
+msgid "Fade In Up"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:41
+msgid "Fade In Down"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:42
+msgid "Fade In Left"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:43
+msgid "Fade In Right"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:44
+msgid "Fade In Up Big"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:45
+msgid "Fade In Down Big"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:46
+msgid "Fade In Left Big"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:47
+msgid "Fade In Right Big"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:48
+msgid "Slide In Down"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:49
+msgid "Slide In Left"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:50
+msgid "Slide In Right"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:51
+msgid "Bounce In"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:52
+msgid "Bounce In Down"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:53
+msgid "Bounce In Up"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:54
+msgid "Bounce In Left"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:55
+msgid "Bounce In Right"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:56
+msgid "Rotate In"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:57
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:58
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:59
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:60
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: ../lsvr-toolkit-beautyspot.php:61
+msgid "Roll In"
+msgstr ""
+
+#: ../lsvr-widgets.php:34
+msgid "Mailchimp Subscribe Form"
+msgstr ""
+
+#: ../lsvr-widgets.php:35
+msgid "Mailchimp Subscribe"
+msgstr ""
+
+#: ../lsvr-widgets.php:40
+msgid "Our Newsletter"
+msgstr ""
+
+#: ../lsvr-widgets.php:48 ../lsvr-widgets.php:152 ../lsvr-widgets.php:233
+#: ../lsvr-widgets.php:319
+msgid "Title:"
+msgstr ""
+
+#: ../lsvr-widgets.php:52
+msgid "Description:"
+msgstr ""
+
+#: ../lsvr-widgets.php:56
+msgid "Mailchimp Link:"
+msgstr ""
+
+#: ../lsvr-widgets.php:59
+msgid "Please refer to the documentation on how to obtain a correct link."
+msgstr ""
+
+#: ../lsvr-widgets.php:98
+msgid "Your email address is required."
+msgstr ""
+
+#: ../lsvr-widgets.php:103
+msgid "There was a connection problem. Try again later."
+msgstr ""
+
+#: ../lsvr-widgets.php:108
+msgid "<strong>Form sent successfully!</strong>"
+msgstr ""
+
+#: ../lsvr-widgets.php:112
+msgid "Your Email Address"
+msgstr ""
+
+#: ../lsvr-widgets.php:113
+msgid "Subscribe"
+msgstr ""
+
+#: ../lsvr-widgets.php:113
+msgid "Sending..."
+msgstr ""
+
+#: ../lsvr-widgets.php:138
+msgid "Basic Flickr Feed"
+msgstr ""
+
+#: ../lsvr-widgets.php:139 ../lsvr-widgets.php:144
+msgid "Flickr Feed"
+msgstr ""
+
+#: ../lsvr-widgets.php:156
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../lsvr-widgets.php:160
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../lsvr-widgets.php:218
+msgid "Basic Dribbble Feed"
+msgstr ""
+
+#: ../lsvr-widgets.php:219 ../lsvr-widgets.php:225
+msgid "Dribbble Feed"
+msgstr ""
+
+#: ../lsvr-widgets.php:237
+msgid "Dribbble ID:"
+msgstr ""
+
+#: ../lsvr-widgets.php:241 ../lsvr-widgets.php:327
+msgid "Number of photos:"
+msgstr ""
+
+#: ../lsvr-widgets.php:303
+msgid "Basic Instagram Feed"
+msgstr ""
+
+#: ../lsvr-widgets.php:304 ../lsvr-widgets.php:310
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../lsvr-widgets.php:317
+msgid ""
+"Please refer to the documentation on how to get Instagram widget to work."
+msgstr ""
+
+#: ../lsvr-widgets.php:323
+msgid "Instagram ID:"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:12
+#: ../shortcode-generator/shortcodes/alert-message.php:17
+msgid "Alert Message"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:39
+#: ../shortcode-generator/shortcodes/alert-message.php:24
+msgid "Warning"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:39
+#: ../shortcode-generator/shortcodes/alert-message.php:24
+msgid "Success"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:39
+#: ../shortcode-generator/shortcodes/alert-message.php:24
+msgid "Info"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:39
+#: ../shortcode-generator/shortcodes/alert-message.php:24
+msgid "Notification"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:51
+#: ../page-builder/blocks/cta.php:57
+msgid "Message"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:58
+#: ../shortcode-generator/shortcodes/alert-message.php:22
+msgid "Type"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:67
+#: ../shortcode-generator/shortcodes/alert-message.php:27
+msgid "Closable"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:72
+#: ../page-builder/blocks/articles.php:107
+#: ../page-builder/blocks/carousel.php:142 ../page-builder/blocks/cta.php:78
+#: ../page-builder/blocks/divider.php:64
+#: ../page-builder/blocks/gallery.php:135 ../page-builder/blocks/list.php:81
+#: ../page-builder/blocks/pricing-table.php:94
+#: ../page-builder/blocks/section.php:106
+#: ../page-builder/blocks/service.php:78 ../page-builder/blocks/slider.php:83
+#: ../page-builder/blocks/tabs.php:94
+#: ../page-builder/blocks/team-member.php:112
+#: ../page-builder/blocks/testimonial.php:70
+#: ../page-builder/blocks/text.php:54 ../page-builder/blocks/video.php:54
+msgid "Block Offset"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:74
+#: ../page-builder/blocks/articles.php:109
+#: ../page-builder/blocks/carousel.php:144 ../page-builder/blocks/cta.php:80
+#: ../page-builder/blocks/divider.php:66
+#: ../page-builder/blocks/gallery.php:137 ../page-builder/blocks/list.php:83
+#: ../page-builder/blocks/pricing-table.php:96
+#: ../page-builder/blocks/section.php:108
+#: ../page-builder/blocks/service.php:80 ../page-builder/blocks/slider.php:85
+#: ../page-builder/blocks/tabs.php:96
+#: ../page-builder/blocks/team-member.php:114
+#: ../page-builder/blocks/testimonial.php:72
+#: ../page-builder/blocks/text.php:56 ../page-builder/blocks/video.php:56
+msgid "Left offset of this block."
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:82
+#: ../page-builder/blocks/articles.php:117
+#: ../page-builder/blocks/carousel.php:152 ../page-builder/blocks/cta.php:88
+#: ../page-builder/blocks/divider.php:74
+#: ../page-builder/blocks/gallery.php:145 ../page-builder/blocks/list.php:91
+#: ../page-builder/blocks/pricing-table.php:104
+#: ../page-builder/blocks/section.php:116
+#: ../page-builder/blocks/service.php:88 ../page-builder/blocks/tabs.php:104
+#: ../page-builder/blocks/team-member.php:122
+#: ../page-builder/blocks/testimonial.php:80
+#: ../page-builder/blocks/text.php:64 ../page-builder/blocks/video.php:64
+#: ../shortcode-generator/shortcodes/accordion.php:29
+#: ../shortcode-generator/shortcodes/alert-message.php:33
+#: ../shortcode-generator/shortcodes/articles.php:58
+#: ../shortcode-generator/shortcodes/button.php:49
+#: ../shortcode-generator/shortcodes/carousel.php:70
+#: ../shortcode-generator/shortcodes/container.php:23
+#: ../shortcode-generator/shortcodes/cta.php:34
+#: ../shortcode-generator/shortcodes/custom-object.php:23
+#: ../shortcode-generator/shortcodes/divider.php:35
+#: ../shortcode-generator/shortcodes/gallery.php:59
+#: ../shortcode-generator/shortcodes/icon-block.php:27
+#: ../shortcode-generator/shortcodes/icon.php:38
+#: ../shortcode-generator/shortcodes/image.php:37
+#: ../shortcode-generator/shortcodes/lead.php:22
+#: ../shortcode-generator/shortcodes/list.php:23
+#: ../shortcode-generator/shortcodes/pricing-table.php:42
+#: ../shortcode-generator/shortcodes/progress-bar.php:38
+#: ../shortcode-generator/shortcodes/section.php:51
+#: ../shortcode-generator/shortcodes/service.php:35
+#: ../shortcode-generator/shortcodes/tabs.php:25
+#: ../shortcode-generator/shortcodes/team-member.php:39
+#: ../shortcode-generator/shortcodes/testimonial.php:31
+#: ../shortcode-generator/shortcodes/video.php:23
+msgid "InView Animation"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:84
+#: ../page-builder/blocks/articles.php:119
+#: ../page-builder/blocks/carousel.php:154 ../page-builder/blocks/cta.php:90
+#: ../page-builder/blocks/divider.php:76
+#: ../page-builder/blocks/gallery.php:147 ../page-builder/blocks/list.php:93
+#: ../page-builder/blocks/pricing-table.php:106
+#: ../page-builder/blocks/section.php:118
+#: ../page-builder/blocks/service.php:90 ../page-builder/blocks/tabs.php:106
+#: ../page-builder/blocks/team-member.php:124
+#: ../page-builder/blocks/testimonial.php:82
+#: ../page-builder/blocks/text.php:66 ../page-builder/blocks/video.php:66
+#: ../shortcode-generator/shortcodes/icon.php:39
+#: ../shortcode-generator/shortcodes/image.php:38
+#: ../shortcode-generator/shortcodes/lead.php:23
+#: ../shortcode-generator/shortcodes/list.php:24
+#: ../shortcode-generator/shortcodes/section.php:52
+#: ../shortcode-generator/shortcodes/service.php:36
+#: ../shortcode-generator/shortcodes/team-member.php:40
+#: ../shortcode-generator/shortcodes/testimonial.php:32
+#: ../shortcode-generator/shortcodes/video.php:24
+msgid "Animation fired when element appears in the user's viewport."
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:92
+#: ../page-builder/blocks/articles.php:127
+#: ../page-builder/blocks/carousel.php:162 ../page-builder/blocks/cta.php:98
+#: ../page-builder/blocks/divider.php:84
+#: ../page-builder/blocks/gallery.php:155 ../page-builder/blocks/list.php:101
+#: ../page-builder/blocks/pricing-table.php:114
+#: ../page-builder/blocks/section.php:126
+#: ../page-builder/blocks/service.php:98 ../page-builder/blocks/slider.php:93
+#: ../page-builder/blocks/tabs.php:114
+#: ../page-builder/blocks/team-member.php:132
+#: ../page-builder/blocks/testimonial.php:90
+#: ../page-builder/blocks/text.php:74 ../page-builder/blocks/video.php:74
+#: ../shortcode-generator/shortcodes/accordion.php:36
+#: ../shortcode-generator/shortcodes/alert-message.php:40
+#: ../shortcode-generator/shortcodes/articles.php:65
+#: ../shortcode-generator/shortcodes/button.php:56
+#: ../shortcode-generator/shortcodes/carousel.php:77
+#: ../shortcode-generator/shortcodes/container.php:30
+#: ../shortcode-generator/shortcodes/cta.php:41
+#: ../shortcode-generator/shortcodes/custom-object.php:30
+#: ../shortcode-generator/shortcodes/divider.php:42
+#: ../shortcode-generator/shortcodes/gallery.php:66
+#: ../shortcode-generator/shortcodes/grid.php:20
+#: ../shortcode-generator/shortcodes/grid.php:107
+#: ../shortcode-generator/shortcodes/icon-block.php:34
+#: ../shortcode-generator/shortcodes/icon.php:45
+#: ../shortcode-generator/shortcodes/image.php:44
+#: ../shortcode-generator/shortcodes/lead.php:29
+#: ../shortcode-generator/shortcodes/list.php:30
+#: ../shortcode-generator/shortcodes/pricing-table.php:49
+#: ../shortcode-generator/shortcodes/progress-bar.php:45
+#: ../shortcode-generator/shortcodes/section.php:58
+#: ../shortcode-generator/shortcodes/service.php:42
+#: ../shortcode-generator/shortcodes/slider.php:36
+#: ../shortcode-generator/shortcodes/tabs.php:32
+#: ../shortcode-generator/shortcodes/team-member.php:46
+#: ../shortcode-generator/shortcodes/testimonial.php:38
+#: ../shortcode-generator/shortcodes/video.php:30
+msgid "Custom Class"
+msgstr ""
+
+#: ../page-builder/blocks/alert-message.php:94
+#: ../page-builder/blocks/articles.php:129
+#: ../page-builder/blocks/carousel.php:164 ../page-builder/blocks/cta.php:100
+#: ../page-builder/blocks/divider.php:86
+#: ../page-builder/blocks/gallery.php:157 ../page-builder/blocks/list.php:103
+#: ../page-builder/blocks/pricing-table.php:116
+#: ../page-builder/blocks/section.php:128
+#: ../page-builder/blocks/section.php:138
+#: ../page-builder/blocks/service.php:100 ../page-builder/blocks/slider.php:95
+#: ../page-builder/blocks/tabs.php:116
+#: ../page-builder/blocks/team-member.php:134
+#: ../page-builder/blocks/testimonial.php:92
+#: ../page-builder/blocks/text.php:76 ../page-builder/blocks/video.php:76
+#: ../shortcode-generator/shortcodes/accordion.php:37
+#: ../shortcode-generator/shortcodes/alert-message.php:41
+#: ../shortcode-generator/shortcodes/articles.php:66
+#: ../shortcode-generator/shortcodes/button.php:57
+#: ../shortcode-generator/shortcodes/carousel.php:78
+#: ../shortcode-generator/shortcodes/container.php:31
+#: ../shortcode-generator/shortcodes/cta.php:42
+#: ../shortcode-generator/shortcodes/custom-object.php:31
+#: ../shortcode-generator/shortcodes/divider.php:43
+#: ../shortcode-generator/shortcodes/gallery.php:67
+#: ../shortcode-generator/shortcodes/grid.php:21
+#: ../shortcode-generator/shortcodes/grid.php:108
+#: ../shortcode-generator/shortcodes/icon-block.php:35
+#: ../shortcode-generator/shortcodes/icon.php:46
+#: ../shortcode-generator/shortcodes/image.php:45
+#: ../shortcode-generator/shortcodes/lead.php:30
+#: ../shortcode-generator/shortcodes/list.php:31
+#: ../shortcode-generator/shortcodes/pricing-table.php:50
+#: ../shortcode-generator/shortcodes/progress-bar.php:46
+#: ../shortcode-generator/shortcodes/section.php:59
+#: ../shortcode-generator/shortcodes/section.php:64
+#: ../shortcode-generator/shortcodes/service.php:43
+#: ../shortcode-generator/shortcodes/slider.php:37
+#: ../shortcode-generator/shortcodes/tabs.php:33
+#: ../shortcode-generator/shortcodes/team-member.php:47
+#: ../shortcode-generator/shortcodes/testimonial.php:39
+#: ../shortcode-generator/shortcodes/video.php:31
+msgid "It can be used for applying custom CSS."
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:12
+#: ../shortcode-generator/shortcodes/articles.php:19
+msgid "Articles"
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:62
+#: ../shortcode-generator/shortcodes/articles.php:85
+msgid "Category"
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:64
+#: ../shortcode-generator/shortcodes/articles.php:86
+msgid ""
+"Category to load posts from. Choose <strong>None</strong> to load posts "
+"regardless of category."
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:72
+msgid "Number of Items"
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:81
+#: ../shortcode-generator/shortcodes/articles.php:35
+msgid "Show Post Date"
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:88
+msgid "Show Post Media"
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:95
+#: ../shortcode-generator/shortcodes/articles.php:47
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: ../page-builder/blocks/articles.php:100
+#: ../shortcode-generator/shortcodes/articles.php:53
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:12
+#: ../shortcode-generator/shortcodes/carousel.php:17
+msgid "Carousel"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:65
+#: ../page-builder/blocks/gallery.php:65 ../page-builder/blocks/list.php:60
+msgid "Items"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:79
+#: ../page-builder/blocks/gallery.php:79 ../page-builder/blocks/list.php:74
+#: ../page-builder/blocks/tabs.php:80
+#: ../page-builder/blocks/team-member.php:105
+msgid "Add New"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:88
+#: ../shortcode-generator/shortcodes/carousel.php:23
+msgid "Wrap in Container"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:95
+#: ../shortcode-generator/shortcodes/carousel.php:29
+msgid "Transparent Background"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:100
+#: ../shortcode-generator/shortcodes/carousel.php:35
+msgid "Background Color"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:107
+#: ../page-builder/blocks/gallery.php:100
+#: ../shortcode-generator/shortcodes/carousel.php:40
+msgid "Items Per Slide"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:114
+#: ../page-builder/blocks/gallery.php:107
+#: ../shortcode-generator/shortcodes/carousel.php:46
+msgid "Items Per Slide Under 1200px"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:121
+#: ../page-builder/blocks/gallery.php:114
+#: ../shortcode-generator/shortcodes/carousel.php:52
+msgid "Items Per Slide Under 992px"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:128
+#: ../page-builder/blocks/gallery.php:121
+#: ../shortcode-generator/shortcodes/carousel.php:58
+msgid "Items Per Slide Under 768px"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:135
+#: ../page-builder/blocks/gallery.php:128
+#: ../shortcode-generator/shortcodes/carousel.php:64
+msgid "Items Per Slide Under 481px"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:185
+#: ../page-builder/blocks/gallery.php:178 ../page-builder/blocks/list.php:124
+#: ../page-builder/blocks/tabs.php:137
+#: ../page-builder/blocks/team-member.php:155
+msgid "Open / Close"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:193 ../page-builder/blocks/cta.php:50
+#: ../page-builder/blocks/gallery.php:186
+#: ../page-builder/blocks/pricing-table.php:52
+#: ../page-builder/blocks/section.php:54 ../page-builder/blocks/service.php:57
+#: ../page-builder/blocks/tabs.php:145
+#: ../page-builder/blocks/team-member.php:163
+#: ../shortcode-generator/shortcodes/accordion.php:112
+#: ../shortcode-generator/shortcodes/cta.php:22
+#: ../shortcode-generator/shortcodes/pricing-table.php:22
+#: ../shortcode-generator/shortcodes/section.php:22
+#: ../shortcode-generator/shortcodes/service.php:27
+#: ../shortcode-generator/shortcodes/tabs.php:123
+msgid "Title"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:200 ../page-builder/blocks/list.php:132
+#: ../page-builder/blocks/pricing-table.php:73
+#: ../page-builder/blocks/section.php:82 ../page-builder/blocks/service.php:71
+#: ../page-builder/blocks/tabs.php:172 ../page-builder/blocks/text.php:47
+msgid "Content"
+msgstr ""
+
+#: ../page-builder/blocks/carousel.php:210
+#: ../page-builder/blocks/gallery.php:206 ../page-builder/blocks/list.php:161
+#: ../page-builder/blocks/row.php:107 ../page-builder/blocks/tabs.php:182
+#: ../page-builder/blocks/team-member.php:187
+msgid "Delete"
+msgstr ""
+
+#: ../page-builder/blocks/cta.php:12
+#: ../shortcode-generator/shortcodes/cta.php:17
+msgid "CTA Message"
+msgstr ""
+
+#: ../page-builder/blocks/cta.php:64
+#: ../page-builder/blocks/pricing-table.php:80
+#: ../page-builder/blocks/section.php:68
+#: ../shortcode-generator/shortcodes/cta.php:26
+#: ../shortcode-generator/shortcodes/pricing-table.php:34
+#: ../shortcode-generator/shortcodes/section.php:30
+msgid "Button Label"
+msgstr ""
+
+#: ../page-builder/blocks/cta.php:71
+#: ../page-builder/blocks/pricing-table.php:87
+#: ../page-builder/blocks/section.php:75
+#: ../shortcode-generator/shortcodes/cta.php:30
+#: ../shortcode-generator/shortcodes/pricing-table.php:38
+#: ../shortcode-generator/shortcodes/section.php:34
+msgid "Button Link"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:12
+#: ../shortcode-generator/shortcodes/divider.php:17
+msgid "Divider"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:38
+#: ../shortcode-generator/shortcodes/button.php:28
+#: ../shortcode-generator/shortcodes/button.php:39
+#: ../shortcode-generator/shortcodes/button.php:45
+#: ../shortcode-generator/shortcodes/divider.php:25
+msgid "Default"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:38
+#: ../shortcode-generator/shortcodes/divider.php:25
+msgid "Small"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:38
+#: ../shortcode-generator/shortcodes/button.php:28
+#: ../shortcode-generator/shortcodes/divider.php:25
+msgid "Medium"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:38
+#: ../shortcode-generator/shortcodes/divider.php:25
+msgid "Large"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:50
+#: ../shortcode-generator/shortcodes/divider.php:22
+msgid "Whitespace Size"
+msgstr ""
+
+#: ../page-builder/blocks/divider.php:59
+#: ../shortcode-generator/shortcodes/divider.php:29
+msgid "Transparent"
+msgstr ""
+
+#: ../page-builder/blocks/gallery.php:12
+#: ../shortcode-generator/shortcodes/gallery.php:17
+msgid "Gallery"
+msgstr ""
+
+#: ../page-builder/blocks/gallery.php:88
+msgid "Crop Thumbnails"
+msgstr ""
+
+#: ../page-builder/blocks/gallery.php:95
+#: ../shortcode-generator/shortcodes/gallery.php:23
+msgid "Display as Carousel"
+msgstr ""
+
+#: ../page-builder/blocks/gallery.php:193
+#: ../page-builder/blocks/service.php:50
+#: ../shortcode-generator/shortcodes/image.php:17
+#: ../shortcode-generator/shortcodes/service.php:22
+msgid "Image"
+msgstr ""
+
+#: ../page-builder/blocks/list.php:12
+#: ../shortcode-generator/shortcodes/list.php:17
+msgid "List"
+msgstr ""
+
+#: ../page-builder/blocks/list.php:121 ../page-builder/blocks/list.php:203
+#, php-format
+msgid "List Item %d"
+msgstr ""
+
+#: ../page-builder/blocks/list.php:142
+msgid "Item Icon"
+msgstr ""
+
+#: ../page-builder/blocks/list.php:144
+msgid ""
+"Name of the icon (e.g. \"fa fa-cog\"). You will find list of all icons in "
+"the documentation."
+msgstr ""
+
+#: ../page-builder/blocks/list.php:152
+#: ../shortcode-generator/shortcodes/icon.php:33
+#: ../shortcode-generator/shortcodes/list.php:112
+msgid "Icon Color"
+msgstr ""
+
+#: ../page-builder/blocks/pricing-table.php:12
+#: ../shortcode-generator/shortcodes/pricing-table.php:17
+msgid "Pricing Table"
+msgstr ""
+
+#: ../page-builder/blocks/pricing-table.php:59
+#: ../shortcode-generator/shortcodes/pricing-table.php:26
+msgid "Price"
+msgstr ""
+
+#: ../page-builder/blocks/pricing-table.php:66
+#: ../shortcode-generator/shortcodes/pricing-table.php:30
+msgid "Price Description"
+msgstr ""
+
+#: ../page-builder/blocks/row.php:12
+msgid "Row"
+msgstr ""
+
+#: ../page-builder/blocks/row.php:39
+msgid "Edit Block"
+msgstr ""
+
+#: ../page-builder/blocks/row.php:48 ../page-builder/blocks/row.php:70
+#, php-format
+msgid ""
+"ROW: Drag block items here. Every block item with width less than "
+"100% should be placed inside ROW."
+msgstr ""
+
+#: ../page-builder/blocks/section.php:12
+#: ../shortcode-generator/shortcodes/section.php:17
+msgid "Section"
+msgstr ""
+
+#: ../page-builder/blocks/section.php:61
+#: ../shortcode-generator/shortcodes/section.php:26
+msgid "Subtitle"
+msgstr ""
+
+#: ../page-builder/blocks/section.php:90
+msgid "Enable if this section is used in fullsize template."
+msgstr ""
+
+#: ../page-builder/blocks/section.php:94 ../page-builder/blocks/slider.php:65
+#: ../shortcode-generator/shortcodes/section.php:38
+#: ../shortcode-generator/shortcodes/slider.php:23
+msgid "Fullsize"
+msgstr ""
+
+#: ../page-builder/blocks/section.php:101
+#: ../shortcode-generator/shortcodes/section.php:45
+msgid "Wrap Content in Container"
+msgstr ""
+
+#: ../page-builder/blocks/section.php:136
+#: ../shortcode-generator/shortcodes/section.php:63
+msgid "Custom ID"
+msgstr ""
+
+#: ../page-builder/blocks/service.php:12
+#: ../shortcode-generator/shortcodes/service.php:17
+msgid "Service"
+msgstr ""
+
+#: ../page-builder/blocks/service.php:64
+#: ../page-builder/blocks/team-member.php:180
+#: ../shortcode-generator/shortcodes/button.php:22
+#: ../shortcode-generator/shortcodes/image.php:26
+#: ../shortcode-generator/shortcodes/service.php:31
+msgid "Link"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:55
+msgid ""
+"Which slider will be used. You can manage sliders under <strong>Slider / "
+"Sliders</strong>. Choose <strong>None</strong> to load all slides."
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:68
+msgid "Enable if you are using this slider in Fullsize template."
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:73
+msgid "Interval"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:75
+#: ../shortcode-generator/shortcodes/slider.php:31
+msgid ""
+"Duration between transitions in seconds. Add 0 to disable automatic "
+"slideshow."
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:12
+msgid "Tabs &amp; Accordion"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:55 ../page-builder/blocks/tabs.php:66
+#: ../shortcode-generator/shortcodes/tabs.php:19
+msgid "Tabs"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:56
+msgid "Toggles"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:57
+#: ../shortcode-generator/shortcodes/accordion.php:17
+msgid "Accordion"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:87
+msgid "Tabs Style"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:152
+#: ../shortcode-generator/shortcodes/accordion.php:116
+msgid "Price Info"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:154 ../page-builder/blocks/tabs.php:164
+msgid "For Accordion/Toggle only."
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:162
+#: ../shortcode-generator/shortcodes/accordion.php:120
+msgid "Old Price Info"
+msgstr ""
+
+#: ../page-builder/blocks/tabs.php:243
+msgid "New Tab"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:12
+#: ../shortcode-generator/shortcodes/team-member.php:17
+msgid "Team Member"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:62
+#: ../page-builder/blocks/testimonial.php:49
+#: ../shortcode-generator/shortcodes/team-member.php:22
+#: ../shortcode-generator/shortcodes/testimonial.php:22
+msgid "Portrait"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:69
+#: ../shortcode-generator/shortcodes/team-member.php:26
+msgid "Name"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:76
+#: ../shortcode-generator/shortcodes/team-member.php:30
+msgid "Description"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:83
+#: ../page-builder/blocks/text.php:12
+msgid "Text"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:91
+#: ../shortcode-generator/shortcodes/team-member.php:34
+msgid "Social Icons"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:170
+#: ../shortcode-generator/shortcodes/button.php:32
+#: ../shortcode-generator/shortcodes/icon-block.php:22
+#: ../shortcode-generator/shortcodes/icon.php:17
+#: ../shortcode-generator/shortcodes/icon.php:22
+#: ../shortcode-generator/shortcodes/list.php:107
+msgid "Icon"
+msgstr ""
+
+#: ../page-builder/blocks/team-member.php:172
+msgid ""
+"Name of the icon (e.g. \"fa fa-twiter\"). You will find list of all icons in "
+"the documentation."
+msgstr ""
+
+#: ../page-builder/blocks/testimonial.php:12
+#: ../shortcode-generator/shortcodes/testimonial.php:17
+msgid "Testimonial"
+msgstr ""
+
+#: ../page-builder/blocks/testimonial.php:56
+msgid "Quote"
+msgstr ""
+
+#: ../page-builder/blocks/testimonial.php:63
+#: ../shortcode-generator/shortcodes/testimonial.php:26
+msgid "Source"
+msgstr ""
+
+#: ../page-builder/blocks/video.php:12
+#: ../shortcode-generator/shortcodes/video.php:17
+msgid "Video"
+msgstr ""
+
+#: ../page-builder/blocks/video.php:47
+msgid "Embed Code"
+msgstr ""
+
+#: ../shortcode-generator/lsvr-shortcode-generator.php:125
+#: ../shortcode-generator/lsvr-shortcode-generator.php:163
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../shortcode-generator/lsvr-shortcode-generator.php:126
+msgid "Choose shortcode from the list"
+msgstr ""
+
+#: ../shortcode-generator/lsvr-shortcode-generator.php:127
+#: ../shortcode-generator/lsvr-shortcode-generator.php:164
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:22
+msgid "Toggle"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:23
+msgid "This accordion will behave as a toggle if enabled."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:25
+#: ../shortcode-generator/shortcodes/alert-message.php:29
+#: ../shortcode-generator/shortcodes/carousel.php:25
+#: ../shortcode-generator/shortcodes/carousel.php:31
+#: ../shortcode-generator/shortcodes/divider.php:31
+#: ../shortcode-generator/shortcodes/gallery.php:25
+#: ../shortcode-generator/shortcodes/image.php:33
+#: ../shortcode-generator/shortcodes/section.php:40
+#: ../shortcode-generator/shortcodes/section.php:46
+#: ../shortcode-generator/shortcodes/slider.php:26
+msgid "Yes"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:25
+#: ../shortcode-generator/shortcodes/alert-message.php:29
+#: ../shortcode-generator/shortcodes/carousel.php:25
+#: ../shortcode-generator/shortcodes/carousel.php:31
+#: ../shortcode-generator/shortcodes/divider.php:31
+#: ../shortcode-generator/shortcodes/gallery.php:25
+#: ../shortcode-generator/shortcodes/image.php:33
+#: ../shortcode-generator/shortcodes/section.php:40
+#: ../shortcode-generator/shortcodes/section.php:46
+#: ../shortcode-generator/shortcodes/slider.php:26
+msgid "No"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:30
+#: ../shortcode-generator/shortcodes/alert-message.php:34
+#: ../shortcode-generator/shortcodes/articles.php:59
+#: ../shortcode-generator/shortcodes/button.php:50
+#: ../shortcode-generator/shortcodes/carousel.php:71
+#: ../shortcode-generator/shortcodes/container.php:24
+#: ../shortcode-generator/shortcodes/cta.php:35
+#: ../shortcode-generator/shortcodes/custom-object.php:24
+#: ../shortcode-generator/shortcodes/divider.php:36
+#: ../shortcode-generator/shortcodes/gallery.php:60
+#: ../shortcode-generator/shortcodes/icon-block.php:28
+#: ../shortcode-generator/shortcodes/pricing-table.php:43
+#: ../shortcode-generator/shortcodes/progress-bar.php:39
+#: ../shortcode-generator/shortcodes/tabs.php:26
+msgid "This animation will fire when element appears in the user's viewport."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:106
+msgid "Accordion Item"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:107
+msgid "Must be placed inside <strong>Accordion</strong> shortcode."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:124
+msgid "State"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:126
+msgid "Closed"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/accordion.php:126
+msgid "Opened"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/articles.php:20
+msgid "Lists posts from specified category."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/articles.php:29
+msgid "Number of Posts"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/articles.php:37
+#: ../shortcode-generator/shortcodes/articles.php:43
+#: ../shortcode-generator/shortcodes/articles.php:49
+msgid "Show"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/articles.php:37
+#: ../shortcode-generator/shortcodes/articles.php:43
+#: ../shortcode-generator/shortcodes/articles.php:49
+msgid "Hide"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/articles.php:41
+msgid "Show Featured Image"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:17
+msgid "Button"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:26
+#: ../shortcode-generator/shortcodes/grid.php:90
+msgid "Size"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:33
+#: ../shortcode-generator/shortcodes/icon-block.php:23
+#: ../shortcode-generator/shortcodes/icon.php:23
+msgid ""
+"Name of the icon (e.g. \"fa fa-heart\"). Please refer to the documentation "
+"to learn more about using the icons."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:37
+msgid "Color"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:39
+msgid "Color 2"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:39
+msgid "Color 3"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:43
+#: ../shortcode-generator/shortcodes/progress-bar.php:33
+msgid "Style"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/button.php:45
+msgid "Outline"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/carousel.php:18
+msgid ""
+"<strong>Carousel</strong> is mainly used to divide similar elements into "
+"multiple slides."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/carousel.php:37
+msgid ""
+"If you set \"Transparent Background\" option to \"No\" and leave this field "
+"blank, default color will be used."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/container.php:17
+msgid "Container"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/container.php:18
+msgid "For use inside fullsize templates to center the content."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/custom-object.php:17
+msgid "Custom Object"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/custom-object.php:18
+msgid ""
+"<strong>Custom Object</strong> doesn't have any default styles or "
+"functionality. It can be used for grouping multiple components."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/divider.php:23
+msgid "Determines the top and bottom margins of <strong>divider</strong>."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/gallery.php:18
+msgid "Insert any number of images into this shortcode."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/gallery.php:29
+msgid "Items per slide if displayed as carousel"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/gallery.php:35
+msgid "Items per slide under 1200px if displayed as carousel"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/gallery.php:41
+msgid "Items per slide under 992px if displayed as carousel"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/gallery.php:47
+msgid "Items per slide under 768px if displayed as carousel"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/gallery.php:53
+msgid "Items per slide under 481px if displayed as carousel"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:14
+msgid "Grid Row"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:83
+msgid "Grid Column"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:84
+msgid ""
+"<strong>Grid Column</strong> must be used inside <strong>Grid Row</strong> "
+"shortcode."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:96
+msgid "Breakpoint"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:98
+msgid "Do not collapse"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:98
+msgid "Collapse under 768px"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:98
+msgid "Collapse under 992px"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:98
+msgid "Collapse under 1200px"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/grid.php:102
+msgid "Offset"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/icon-block.php:17
+msgid "Icon Block"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/icon.php:27
+msgid "Icon Size"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/icon.php:28
+msgid "Size of icon in pixels."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/icon.php:34
+#: ../shortcode-generator/shortcodes/list.php:113
+msgid "For example \"#232323\", or use the color picker."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/image.php:22
+msgid "Upload Image"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/image.php:30
+msgid "Open In Lightbox"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/image.php:31
+msgid "URL of the lightbox image must be placed in \"Link\" field."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/lead.php:17
+msgid "Lead Paragraph"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/list.php:18
+msgid ""
+"<strong>List</strong> shortcode should contain multiple <strong>List Item</"
+"strong> shortcodes."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/list.php:101
+msgid "List Item"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/list.php:102
+msgid ""
+"<strong>List Item</strong> should be put inside <strong>List</strong> "
+"shortcode."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/list.php:108
+msgid ""
+"Name of the icon (e.g. \"fa fa-heart\"). You will find list of all icons in "
+"the documentation."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/progress-bar.php:17
+msgid "Progress Bar"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/progress-bar.php:22
+msgid "Percentage"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/progress-bar.php:29
+msgid "Label"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/section.php:39
+msgid "Set \"yes\" if this section is used in fullsize template."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/slider.php:18
+msgid ""
+"Basic slider. Slides can be managed under <strong>Slider</strong> section of "
+"main menu."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/slider.php:24
+msgid "Select \"Yes\" if you are using this slider in Fullsize template."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/slider.php:30
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/slider.php:55
+msgid ""
+"Which slider will be used. You can manage sliders under <strong>Dashboard / "
+"Slides / Sliders</strong>. Choose <strong>None</strong> to load all slides."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/tabs.php:20
+msgid ""
+"<strong>Tabs</strong> shortcode should contain multiple <strong>Tab Item</"
+"strong> shortcodes."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/tabs.php:117
+msgid "Tab Item"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/tabs.php:118
+msgid ""
+"<strong>Tab Item</strong> should be put inside <strong>Tabs</strong> "
+"shortcode."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/team-member.php:35
+msgid ""
+"Use the following pattern for adding social icons: \"<strong>icon_class1,"
+"link1|icon_class2,link2</strong>\".<br>For example: \"<strong>fa fa-twitter,"
+"https://twitter.com/MyTwitterProfile|fa fa-facebook,https://www.facebook.com/"
+"MyTwitterProfile</strong>\"."
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/testimonial.php:27
+msgid ""
+"You can use some HTML for this field, for example:<br>&lt;strong&gt;John "
+"Doe&lt;/strong&gt;, Manager"
+msgstr ""
+
+#: ../shortcode-generator/shortcodes/video.php:20
+msgid ""
+"Insert the embed code of the video inside the shortcode (after clicking on \\"
+"\"Add Shortcode\\\")."
+msgstr ""
